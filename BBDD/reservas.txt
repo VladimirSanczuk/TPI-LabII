@@ -1,0 +1,2 @@
+Nombre,Fecha,DJ,Decoracion,Cotillon,MaquinaHumo,Maquillaje,MusicaVivo,TotalAbonado,PrecioTotal,SeñaMinima
+Raul,11/07/23,False,False,False,False,False,True,30000,50000,15000.0
